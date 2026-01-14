@@ -1,0 +1,42 @@
+.container{
+    border: 1px solid black!important;
+}
+
+.h5{
+    text-align: start!important;
+    font-size: 15px!important;
+}
+.img1{
+    width: 200px!important;
+}
+.ul1{
+    display: flex!important;
+    justify-content: center!important;
+    margin-top: 10px!important;
+}
+
+.h1{
+    text-align: start!important;
+    font-size: 25px!important;
+    color: black!important;
+}
+.av{ 
+    font-size: 15px!important;
+}
+.btn1{
+    display: flex!important;
+    justify-content: space-around!important;
+}
+.container{
+    background-color: rgb(163, 156, 156)!important;
+}
+.custom-hover-btn:hover{
+    background-color: #ff5733 !important;
+    border-color: #ff5733 !important;
+    color: #fff !important;
+
+}
+.btn1{
+    background-color:white!important;
+    border-radius: 4px!important;
+}
